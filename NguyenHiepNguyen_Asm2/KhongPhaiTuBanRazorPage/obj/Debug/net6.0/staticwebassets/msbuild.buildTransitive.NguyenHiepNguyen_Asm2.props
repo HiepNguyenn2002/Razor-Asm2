@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NguyenHiepNguyen_Asm2.props" />
+</Project>

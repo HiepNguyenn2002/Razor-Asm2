@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NguyenHiepNguyen_Asm2
+build_property.RootNamespace = NguyenHiepNguyen_Asm2
+build_property.ProjectDir = D:\PRN221\KhongPhaiTuBanRazorPage\KhongPhaiTuBanRazorPage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\PRN221\KhongPhaiTuBanRazorPage\KhongPhaiTuBanRazorPage
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0RldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0RldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0RldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0RldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0RldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingReservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1Jlc2VydmF0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingReservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1Jlc2VydmF0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingReservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1Jlc2VydmF0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingReservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1Jlc2VydmF0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/BookingReservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1Jlc2VydmF0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/RoomInfomations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbUluZm9tYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/RoomInfomations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbUluZm9tYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/RoomInfomations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbUluZm9tYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/RoomInfomations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbUluZm9tYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/RoomInfomations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbUluZm9tYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Shared/_CustomerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9DdXN0b21lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Shared/_NotAuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RBdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PRN221/KhongPhaiTuBanRazorPage/KhongPhaiTuBanRazorPage/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vv3ywr850i

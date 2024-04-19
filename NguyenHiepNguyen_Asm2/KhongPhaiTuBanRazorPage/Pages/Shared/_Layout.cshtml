@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - FUHotel</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/chatStyle.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.11/signalr.min.js"></script>
+</head>
+<body>
+    @{
+        string headerName = ViewData["HeaderName"]?.ToString() ?? "_NotAuthLayout";
+    }
+
+    @Html.Partial(headerName + ".cshtml")
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <button class="open-button" onclick="openForm()">Open Chat</button>
+
+    <div class="form-popup" id="myForm">
+        <div class="message-list-container">
+            <ul id="messageList"></ul>
+        </div>
+        <form class="form-container" id="chatForm">
+            <h1>Chat</h1>
+            <label for="msg"><b>Message</b></label>
+            <textarea id="messageInput" placeholder="Type message.." name="msg" required></textarea>
+            <button type="button" id="sendButton" class="btn">Send</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+        </form>
+    </div>
+
+    @RenderSection("Scripts", required: false)
+    <script src="~/js/Chat.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</body>
+</html>

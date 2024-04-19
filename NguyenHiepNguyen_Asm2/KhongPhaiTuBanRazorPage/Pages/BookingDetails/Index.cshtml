@@ -1,0 +1,80 @@
+﻿@page
+@model KhongPhaiTuBanRazorPage.Pages.BookingDetails.IndexModel
+
+@{
+    ViewData["Title"] = "BookingDetails Index";
+    if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "customer")
+    {
+        ViewData["HeaderName"] = "_CustomerLayout";
+    }
+    else if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "admin")
+    {
+        ViewData["HeaderName"] = "_AdminLayout";
+    }
+    else
+    {
+        ViewData["HeaderName"] = "_NotAuthLayout";
+    }
+}
+
+<h1>Index</h1>
+@if (ViewData["ErrorMessage"] != null)
+{
+    <p>@ViewData["ErrorMessage"]</p>
+}
+<p>
+    <a asp-page="Create" asp-route-BookingReservationId=@Model.BookingReservation.BookingReservationId>Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDetail[0].StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDetail[0].EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDetail[0].ActualPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDetail[0].BookingReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDetail[0].Room)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model.BookingDetail != null)
+        {
+            @foreach (var item in Model.BookingDetail)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StartDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EndDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ActualPrice)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BookingReservation.BookingReservationId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Room.RoomDetailDescription)
+                    </td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-BookingReservationId="@item.BookingReservation.BookingReservationId" asp-route-RoomId="@item.Room.RoomId">Edit</a> |
+                        <a asp-page="./Details" asp-route-BookingReservationId="@item.BookingReservation.BookingReservationId" asp-route-RoomId="@item.Room.RoomId">Details</a> |
+                        <a asp-page="./Delete" asp-route-BookingReservationId="@item.BookingReservation.BookingReservationId" asp-route-RoomId="@item.Room.RoomId">Delete</a>
+                    </td>
+                </tr>
+        }
+        
+}
+    </tbody>
+</table>

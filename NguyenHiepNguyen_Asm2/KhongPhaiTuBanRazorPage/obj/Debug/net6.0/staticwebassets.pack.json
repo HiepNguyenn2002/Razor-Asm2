@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NguyenHiepNguyen_Asm2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NguyenHiepNguyen_Asm2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\css\\chatStyle.css",
+      "PackagePath": "staticwebassets\\css\\chatStyle.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\about-img.png",
+      "PackagePath": "staticwebassets\\img\\about-img.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\blog\\blog-image-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-image-1.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\blog\\blog-image-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-image-2.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\blog\\blog-image-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-image-3.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\blood_donate.png",
+      "PackagePath": "staticwebassets\\img\\blood_donate.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\img\\hero-bg.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\img\\hero-img.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\hienmau.jpg",
+      "PackagePath": "staticwebassets\\img\\hienmau.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\hoichuthapdo.png",
+      "PackagePath": "staticwebassets\\img\\hoichuthapdo.png"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\newsletter-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\newsletter-bg.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\1.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\2.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\3.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\4.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\5.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\6.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\7.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\8.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\screen\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\screen\\9.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\asteroid.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\asteroid.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\cloud-computing.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\cloud-computing.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\cloud.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\cloud.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\code.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\code.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\design-tool.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\design-tool.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\paint-palette.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\paint-palette.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\pixel.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\pixel.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\planet.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\planet.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\tools.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\tools.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\svg\\vector.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\vector.svg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\js\\Chat.js",
+      "PackagePath": "staticwebassets\\js\\Chat.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PRN221\\KhongPhaiTuBanRazorPage\\KhongPhaiTuBanRazorPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NguyenHiepNguyen_Asm2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NguyenHiepNguyen_Asm2.props",
+      "PackagePath": "build\\NguyenHiepNguyen_Asm2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenHiepNguyen_Asm2.props",
+      "PackagePath": "buildMultiTargeting\\NguyenHiepNguyen_Asm2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NguyenHiepNguyen_Asm2.props",
+      "PackagePath": "buildTransitive\\NguyenHiepNguyen_Asm2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,90 @@
+﻿{
+    box-sizing: border-box;
+}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+    background-color: #555;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 280px;
+}
+
+/* The popup chat - hidden by default */
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+}
+
+    /* Full-width textarea */
+    .form-container textarea {
+        width: calc(100% - 40px); /* Thiết lập chiều rộng cho textarea, trừ đi kích thước của nút Send */
+        padding: 10px; /* Giảm độ dày của padding để thu nhỏ message input */
+        margin: 5px 0; /* Điều chỉnh khoảng cách giữa message input và các nút */
+    }
+
+        /* When the textarea gets focus, do something */
+        .form-container textarea:focus {
+            background-color: #ddd;
+            outline: none;
+        }
+
+    /* Set a style for the submit/login button */
+    .form-container .btn {
+        background-color: #04AA6D;
+        color: white;
+        padding: 16px 20px;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 10px;
+        opacity: 0.8;
+    }
+
+    /* Add a red background color to the cancel button */
+    .form-container .cancel {
+        background-color: red;
+    }
+
+    /* Add some hover effects to buttons */
+    .form-container .btn:hover, .open-button:hover {
+        opacity: 1;
+    }
+
+.message-list-container {
+    width: calc(100% - 20px); /* Đặt chiều rộng của message list container, trừ đi kích thước của viền */
+    padding: 5px; /* Giảm độ dày của padding để thu nhỏ message list container */
+}
+
+/* CSS cho message list */
+#messageList {
+    list-style-type: none; /* Ẩn các dấu chấm trước mỗi tin nhắn */
+    padding: 0;
+    margin: 0;
+}
+
+    #messageList li {
+        margin-bottom: 5px; /* Khoảng cách giữa các tin nhắn */
+    }
+
+        #messageList li strong {
+            font-weight: bold; /* Định dạng chữ in đậm cho tên người gửi */
+            margin-right: 5px; /* Khoảng cách giữa tên người gửi và nội dung tin nhắn */
+        }

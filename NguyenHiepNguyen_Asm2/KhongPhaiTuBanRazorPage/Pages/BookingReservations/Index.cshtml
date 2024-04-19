@@ -1,0 +1,92 @@
+﻿@page
+@model KhongPhaiTuBanRazorPage.Pages.BookingReservations.IndexModel
+
+@{
+    ViewData["Title"] = "Booking Index";
+    if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "customer")
+    {
+        ViewData["HeaderName"] = "_CustomerLayout";
+    }
+    else if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "admin")
+    {
+        ViewData["HeaderName"] = "_AdminLayout";
+    }
+    else
+    {
+        ViewData["HeaderName"] = "_NotAuthLayout";
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    @if (HttpContext.Session.GetString("role") != null)
+    {
+        if (HttpContext.Session.GetString("role") == "customer")
+        {
+            <a asp-page="Create">Booking</a>
+        }
+        else
+        {
+            <a asp-page="Create">Create New</a>
+        }
+    }
+    
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingReservation[0].BookingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingReservation[0].TotalPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingReservation[0].BookingStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingReservation[0].Customer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model.BookingReservation != null)
+        {
+            @foreach (var item in Model.BookingReservation)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BookingDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TotalPrice)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BookingStatus)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Customer.CustomerFullName)
+                    </td>
+                    <td>
+                        @if (HttpContext.Session.GetString("role") != null)
+                        {
+                            if (HttpContext.Session.GetString("role") == "customer")
+                            {
+                                <a asp-page="./Details" asp-route-id="@item.BookingReservationId">Details</a>
+                            }
+                            else
+                            {
+                                <a asp-page="./Edit" asp-route-id="@item.BookingReservationId">Edit</a>
+                                <a asp-page="./Details" asp-route-id="@item.BookingReservationId">Details</a>
+                                <a asp-page="./Delete" asp-route-id="@item.BookingReservationId">Delete</a>
+                            }
+                        }
+
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

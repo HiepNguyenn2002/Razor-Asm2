@@ -1,0 +1,58 @@
+﻿@page
+@model KhongPhaiTuBanRazorPage.Pages.BookingDetails.EditModel
+
+@{
+    ViewData["Title"] = "BookingDetails Edit";
+    if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "customer")
+    {
+        ViewData["HeaderName"] = "_CustomerLayout";
+    }
+    else if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "admin")
+    {
+        ViewData["HeaderName"] = "_AdminLayout";
+    }
+    else
+    {
+        ViewData["HeaderName"] = "_NotAuthLayout";
+    }
+}
+
+<h1>Edit</h1>
+
+<h4>BookingDetail</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BookingDetail.BookingReservationId"/>
+            <input type="hidden" asp-for="BookingDetail.RoomId"/>
+            <div class="form-group">
+                <label asp-for="BookingDetail.StartDate" class="control-label"></label>
+                <input asp-for="BookingDetail.StartDate" class="form-control" />
+                <span asp-validation-for="BookingDetail.StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingDetail.EndDate" class="control-label"></label>
+                <input asp-for="BookingDetail.EndDate" class="form-control" />
+                <span asp-validation-for="BookingDetail.EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingDetail.ActualPrice" class="control-label"></label>
+                <input asp-for="BookingDetail.ActualPrice" class="form-control" />
+                <span asp-validation-for="BookingDetail.ActualPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index" asp-route-BookingReservationId="@Model.BookingDetail.BookingReservationId">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,23 @@
+﻿@page
+@using Microsoft.AspNetCore.Http
+@using System.Web
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "customer")
+    {
+        ViewData["HeaderName"] = "_CustomerLayout";
+    }
+    else if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "admin")
+    {
+        ViewData["HeaderName"] = "_AdminLayout";
+    }
+    else
+    {
+        ViewData["HeaderName"] = "_NotAuthLayout";
+    }
+}
+
+
+<h1>Welcome to Your Application</h1>
+<p>This is the homepage of your application.</p>

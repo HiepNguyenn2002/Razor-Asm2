@@ -1,0 +1,61 @@
+﻿@page
+@model KhongPhaiTuBanRazorPage.Pages.BookingDetails.DetailsModel
+
+@{
+    ViewData["Title"] = "BookingDetails Details";
+    if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "customer")
+    {
+        ViewData["HeaderName"] = "_CustomerLayout";
+    }
+    else if (HttpContext.Session.GetString("role") != null && HttpContext.Session.GetString("role") == "admin")
+    {
+        ViewData["HeaderName"] = "_AdminLayout";
+    }
+    else
+    {
+        ViewData["HeaderName"] = "_NotAuthLayout";
+    }
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>BookingDetail</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookingDetail.StartDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookingDetail.StartDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookingDetail.EndDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookingDetail.EndDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookingDetail.ActualPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookingDetail.ActualPrice)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookingDetail.BookingReservation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookingDetail.BookingReservation.BookingReservationId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookingDetail.Room)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookingDetail.Room.RoomDetailDescription)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-page="Index" asp-route-BookingReservationId="@Model.BookingDetail.BookingReservationId">Back to List</a>
+</div>

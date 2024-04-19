@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NguyenHiepNguyen_Asm2.props" />
+</Project>
